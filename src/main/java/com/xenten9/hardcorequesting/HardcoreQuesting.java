@@ -26,15 +26,15 @@ import cpw.mods.fml.common.network.NetworkRegistry;
     modid = ModInformation.ID,
     name = ModInformation.NAME,
     version = ModInformation.VERSION,
-    guiFactory = "hardcorequesting.client.interfaces.HQMModGuiFactory")
+    guiFactory = "com.xenten9.hardcorequesting.client.interfaces.HQMModGuiFactory")
 public class HardcoreQuesting {
 
     @Instance(ModInformation.ID)
     public static HardcoreQuesting instance;
 
     @SidedProxy(
-        clientSide = "hardcorequesting.proxies.ClientProxy",
-        serverSide = "hardcorequesting.proxies.CommonProxy")
+        clientSide = "com.xenten9.hardcorequesting.proxies.ClientProxy",
+        serverSide = "com.xenten9.hardcorequesting.proxies.CommonProxy")
     public static CommonProxy proxy;
     public static CreativeTabs HQMTab = new HQMTab();
 
@@ -87,7 +87,7 @@ public class HardcoreQuesting {
         ModItems.registerRecipes();
         ModBlocks.registerRecipes();
 
-        FMLInterModComms.sendMessage("Waila", "register", "hardcorequesting.waila.Provider.callbackRegister");
+        FMLInterModComms.sendMessage("Waila", "register", "com.xenten9.hardcorequesting.waila.Provider.callbackRegister");
     }
 
     @EventHandler
