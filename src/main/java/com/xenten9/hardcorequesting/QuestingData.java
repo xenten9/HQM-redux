@@ -1,4 +1,4 @@
-package com.xenten9.hardcorequestion;
+package com.xenten9.hardcorequesting;
 
 import java.io.File;
 import java.util.*;

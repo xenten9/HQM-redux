@@ -1,4 +1,4 @@
-package hardcorequesting.quests;
+package com.xenten9.hardcorequesting.quests;
 
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.entity.player.EntityPlayerMP;

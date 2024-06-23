@@ -1,4 +1,4 @@
-package hardcorequesting.client.interfaces.hud;
+package com.xenten9.hardcorequesting.client.interfaces.hud;
 
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.Gui;

@@ -1,4 +1,4 @@
-package hardcorequesting.items;
+package com.xenten9.hardcorequesting.items;
 
 import net.minecraft.client.renderer.texture.IIconRegister;
 import net.minecraft.item.Item;

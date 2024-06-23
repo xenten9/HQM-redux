@@ -1,4 +1,4 @@
-package hardcorequesting.client.interfaces;
+package com.xenten9.hardcorequesting.client.interfaces;
 
 import java.awt.image.BufferedImage;
 import java.io.File;

@@ -1,4 +1,4 @@
-package hardcorequesting.commands;
+package com.xenten9.hardcorequesting.commands;
 
 import net.minecraft.command.ICommandSender;
 

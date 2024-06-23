@@ -1,4 +1,4 @@
-package hardcorequesting.proxies;
+package com.xenten9.hardcorequesting.proxies;
 
 import com.xenten9.hardcorequesting.BlockHighlightRemover;
 import com.xenten9.hardcorequesting.client.sounds.SoundHandler;

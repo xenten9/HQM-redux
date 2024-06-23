@@ -1,4 +1,4 @@
-package com.xenten9.hardcorequestion;
+package com.xenten9.hardcorequesting;
 
 import java.io.File;
 
@@ -48,7 +48,7 @@ public class HardcoreQuesting {
 
     @EventHandler
     public void preInit(FMLPreInitializationEvent event) {
-        new hardcorequesting.EventHandler();
+        new com.xenten9.hardcorequesting.EventHandler();
         packetHandler = NetworkRegistry.INSTANCE.newEventDrivenChannel(ModInformation.CHANNEL);
 
         path = event.getModConfigurationDirectory()

@@ -1,6 +1,6 @@
-package hardcorequesting.network;
+package com.xenten9.hardcorequesting.network;
 
-import static hardcorequesting.HardcoreQuesting.packetHandler;
+import static com.xenten9.hardcorequesting.HardcoreQuesting.packetHandler;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;

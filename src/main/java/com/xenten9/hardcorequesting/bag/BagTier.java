@@ -1,4 +1,4 @@
-package hardcorequesting.bag;
+package com.xenten9.hardcorequesting.bag;
 
 import com.xenten9.hardcorequesting.Translator;
 import com.xenten9.hardcorequesting.client.interfaces.GuiColor;

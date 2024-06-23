@@ -1,4 +1,4 @@
-package hardcorequesting.reward;
+package com.xenten9.hardcorequesting.reward;
 
 import com.xenten9.hardcorequesting.client.interfaces.GuiColor;
 import com.xenten9.hardcorequesting.reputation.Reputation;

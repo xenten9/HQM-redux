@@ -1,4 +1,4 @@
-package hardcorequesting.reputation;
+package com.xenten9.hardcorequesting.reputation;
 
 public class ReputationMarker implements Comparable<ReputationMarker> {
 

@@ -1,4 +1,4 @@
-package hardcorequesting.reward;
+package com.xenten9.hardcorequesting.reward;
 
 import java.util.ArrayList;
 import java.util.List;

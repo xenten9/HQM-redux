@@ -1,4 +1,4 @@
-package hardcorequesting.client.sounds;
+package com.xenten9.hardcorequesting.client.sounds;
 
 import net.minecraft.client.audio.PositionedSound;
 import net.minecraft.util.ResourceLocation;

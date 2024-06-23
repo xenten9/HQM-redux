@@ -1,4 +1,4 @@
-package hardcorequesting.parsing;
+package com.xenten9.hardcorequesting.parsing;
 
 import java.io.IOException;
 

@@ -1,6 +1,6 @@
-package hardcorequesting.reputation;
+package com.xenten9.hardcorequesting.reputation;
 
-import static hardcorequesting.client.interfaces.GuiQuestBook.selectedReputation;
+import static com.xenten9.hardcorequesting.client.interfaces.GuiQuestBook.selectedReputation;
 
 import java.util.ArrayList;
 import java.util.Collections;

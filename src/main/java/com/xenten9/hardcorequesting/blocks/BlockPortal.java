@@ -1,4 +1,4 @@
-package hardcorequesting.blocks;
+package com.xenten9.hardcorequesting.blocks;
 
 import java.util.List;
 

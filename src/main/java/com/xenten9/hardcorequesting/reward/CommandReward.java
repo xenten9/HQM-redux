@@ -1,4 +1,4 @@
-package hardcorequesting.reward;
+package com.xenten9.hardcorequesting.reward;
 
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.server.MinecraftServer;

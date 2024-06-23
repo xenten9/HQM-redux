@@ -1,4 +1,4 @@
-package hardcorequesting.quests;
+package com.xenten9.hardcorequesting.quests;
 
 import java.awt.*;
 import java.io.*;

@@ -1,4 +1,4 @@
-package hardcorequesting.items;
+package com.xenten9.hardcorequesting.items;
 
 public abstract class ItemInfo {
 

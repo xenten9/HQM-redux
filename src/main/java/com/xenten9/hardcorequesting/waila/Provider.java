@@ -1,4 +1,4 @@
-package hardcorequesting.waila;
+package com.xenten9.hardcorequesting.waila;
 
 import java.util.List;
 

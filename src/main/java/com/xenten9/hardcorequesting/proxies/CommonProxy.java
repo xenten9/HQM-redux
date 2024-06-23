@@ -1,4 +1,4 @@
-package hardcorequesting.proxies;
+package com.xenten9.hardcorequesting.proxies;
 
 import com.xenten9.hardcorequesting.quests.Quest;
 import com.xenten9.hardcorequesting.quests.QuestTicker;

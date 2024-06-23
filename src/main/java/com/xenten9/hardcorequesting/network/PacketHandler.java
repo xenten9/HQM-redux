@@ -1,4 +1,4 @@
-package hardcorequesting.network;
+package com.xenten9.hardcorequesting.network;
 
 import java.util.HashMap;
 import java.util.Map;

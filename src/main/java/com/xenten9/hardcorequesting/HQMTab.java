@@ -1,4 +1,4 @@
-package com.xenten9.hardcorequestion;
+package com.xenten9.hardcorequesting;
 
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;

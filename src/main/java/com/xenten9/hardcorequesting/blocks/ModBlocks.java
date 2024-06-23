@@ -1,4 +1,4 @@
-package hardcorequesting.blocks;
+package com.xenten9.hardcorequesting.blocks;
 
 import net.minecraft.block.Block;
 import net.minecraft.init.Blocks;

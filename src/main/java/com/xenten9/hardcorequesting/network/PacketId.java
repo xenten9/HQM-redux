@@ -1,4 +1,4 @@
-package hardcorequesting.network;
+package com.xenten9.hardcorequesting.network;
 
 public enum PacketId {
 

@@ -1,4 +1,4 @@
-package hardcorequesting.reputation;
+package com.xenten9.hardcorequesting.reputation;
 
 import net.minecraft.entity.player.EntityPlayer;
 

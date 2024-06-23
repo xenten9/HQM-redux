@@ -1,4 +1,4 @@
-package com.xenten9.hardcorequestion;
+package com.xenten9.hardcorequesting;
 
 import net.minecraft.entity.EntityLiving;
 import net.minecraft.entity.player.EntityPlayer;

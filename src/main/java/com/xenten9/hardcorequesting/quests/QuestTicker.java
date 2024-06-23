@@ -1,4 +1,4 @@
-package hardcorequesting.quests;
+package com.xenten9.hardcorequesting.quests;
 
 import com.xenten9.hardcorequesting.network.DataBitHelper;
 import com.xenten9.hardcorequesting.network.DataReader;

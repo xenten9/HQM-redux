@@ -1,4 +1,4 @@
-package com.xenten9.hardcorequestion;
+package com.xenten9.hardcorequesting;
 
 import java.util.IllegalFormatException;
 import java.util.regex.Matcher;

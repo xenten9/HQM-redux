@@ -1,4 +1,4 @@
-package hardcorequesting.network;
+package com.xenten9.hardcorequesting.network;
 
 import com.xenten9.hardcorequesting.FileVersion;
 import com.xenten9.hardcorequesting.QuestingData;

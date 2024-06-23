@@ -1,4 +1,4 @@
-package hardcorequesting.client.interfaces;
+package com.xenten9.hardcorequesting.client.interfaces;
 
 import org.lwjgl.opengl.GL11;
 

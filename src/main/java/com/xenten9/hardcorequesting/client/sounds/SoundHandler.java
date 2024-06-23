@@ -1,4 +1,4 @@
-package hardcorequesting.client.sounds;
+package com.xenten9.hardcorequesting.client.sounds;
 
 import java.io.File;
 import java.lang.reflect.InvocationTargetException;

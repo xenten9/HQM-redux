@@ -1,4 +1,4 @@
-package hardcorequesting.config;
+package com.xenten9.hardcorequesting.config;
 
 import java.io.File;
 
